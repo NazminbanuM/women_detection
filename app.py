@@ -23,7 +23,7 @@ st.set_page_config(
 # DATASET
 # ============================================================
 
-DATA_FILE = "data/womens_safety_filtered_data.csv"
+DATA_FILE = "womens_safety_filtered_data.csv"
 
 
 # ============================================================
